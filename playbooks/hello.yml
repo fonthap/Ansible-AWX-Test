@@ -1,0 +1,5 @@
+---
+- name: Hello
+  host: all
+  debug:
+    msg: "Hello world!" # not required. The customized message that is printed. If omitted, prints a generic message.
